@@ -1,1 +1,3 @@
-# miiguelsr.github.io
+# Calculator
+## Freddy Silva
+## Miguel Salas
